@@ -5,4 +5,13 @@
 ##### si
 
 
-HOLA SOY README 
+Underline 1 
+----------
+Underline 2
+===========
+
+
+letra *italica* de la primera forma.
+letra _italica_ de la segundo forma.
+letra **bold o strong** 
+letra __bold o strong__
